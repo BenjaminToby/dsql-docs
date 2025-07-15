@@ -1,2 +1,2 @@
-# dsql-docs
-Datasquirel Docs
+# Datasquirel Docs
+Documentation for datasquirel.com
