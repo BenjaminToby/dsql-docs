@@ -1,6 +1,8 @@
 ---
 title: Create Database Table Fields
 description: Learn how to create fields/columns in your tables
+page_title: Create Table Fields
+page_description: Learn how to create fields/columns in your tables
 ---
 
 ## Create Database Table Fields
