@@ -1,0 +1,175 @@
+[
+    {
+        "title": "Getting Started",
+        "href": "/docs/getting-started"
+    },
+    {
+        "title": "Quick Start",
+        "href": "/docs/quick-start"
+    },
+    {
+        "title": "Self Hosting",
+        "href": "/docs/self-hosting",
+        "children": [
+            {
+                "title": "Linux/MacOS",
+                "href": "/docs/self-hosting/linux"
+            },
+            {
+                "title": "Windows",
+                "href": "/docs/self-hosting/windows"
+            }
+        ]
+    },
+    {
+        "title": "GUI Reference",
+        "href": "/docs/gui-reference",
+        "children": [
+            {
+                "title": "Getting Started",
+                "href": "/docs/gui-reference/getting-started",
+                "children": [
+                    {
+                        "title": "Create an Account",
+                        "href": "/docs/gui-reference/getting-started/create-an-account"
+                    }
+                ]
+            },
+            {
+                "title": "Databases",
+                "href": "/docs/gui-reference/databases",
+                "children": [
+                    {
+                        "title": "Create a Database",
+                        "href": "/docs/gui-reference/databases/create-database"
+                    },
+                    {
+                        "title": "Create a Table",
+                        "href": "/docs/gui-reference/databases/create-table",
+                        "strict": true
+                    },
+                    {
+                        "title": "Create Table Fields",
+                        "href": "/docs/gui-reference/databases/create-table-fields"
+                    },
+                    {
+                        "title": "Add an Entry",
+                        "href": "/docs/gui-reference/databases/add-entry"
+                    },
+                    {
+                        "title": "Create Table Indexes",
+                        "href": "/docs/gui-reference/databases/create-table-indexes"
+                    }
+                ]
+            },
+            {
+                "title": "Media",
+                "href": "/docs/gui-reference/media",
+                "children": [
+                    {
+                        "title": "Upload Media",
+                        "href": "/docs/gui-reference/media/upload-media"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "API Reference",
+        "href": "/docs/api-reference",
+        "children": [
+            {
+                "title": "CRUD",
+                "href": "/docs/api-reference/crud",
+                "children": [
+                    {
+                        "title": "GET",
+                        "href": "/docs/api-reference/crud/get"
+                    },
+                    {
+                        "title": "POST",
+                        "href": "/docs/api-reference/crud/post"
+                    },
+                    {
+                        "title": "PUT",
+                        "href": "/docs/api-reference/crud/put"
+                    },
+                    {
+                        "title": "DELETE",
+                        "href": "/docs/api-reference/crud/delete"
+                    },
+                    {
+                        "title": "OPTIONS",
+                        "href": "/docs/api-reference/crud/options"
+                    }
+                ]
+            },
+            {
+                "title": "Media",
+                "href": "/docs/api-reference/media",
+                "children": [
+                    {
+                        "title": "GET",
+                        "href": "/docs/api-reference/media/get"
+                    },
+                    {
+                        "title": "POST",
+                        "href": "/docs/api-reference/media/post"
+                    },
+                    {
+                        "title": "DELETE",
+                        "href": "/docs/api-reference/media/delete"
+                    }
+                ]
+            },
+            {
+                "title": "SQL",
+                "href": "/docs/api-reference/sql",
+                "children": [
+                    {
+                        "title": "OPTIONS",
+                        "href": "/docs/api-reference/sql/options"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Database Reference",
+        "href": "/docs/database-reference",
+        "children": [
+            {
+                "title": "Data Types",
+                "href": "/docs/database-reference/data-types",
+                "children": [
+                    {
+                        "title": "Varchar",
+                        "href": "/docs/database-reference/data-types/varchar"
+                    }
+                ]
+            },
+            {
+                "title": "Querying Data",
+                "href": "/docs/database-reference/querying-data",
+                "children": [
+                    {
+                        "title": "Select",
+                        "href": "/docs/database-reference/querying-data/select"
+                    },
+                    {
+                        "title": "Insert",
+                        "href": "/docs/database-reference/querying-data/insert"
+                    },
+                    {
+                        "title": "Update",
+                        "href": "/docs/database-reference/querying-data/update"
+                    },
+                    {
+                        "title": "Delete",
+                        "href": "/docs/database-reference/querying-data/delete"
+                    }
+                ]
+            }
+        ]
+    }
+]

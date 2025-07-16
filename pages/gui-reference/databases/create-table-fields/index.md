@@ -1,3 +1,8 @@
+---
+title: Create Database Table Fields
+description: Learn how to create fields/columns in your tables
+---
+
 ## Create Database Table Fields
 
 Fields (or Columns) define the structure of your SQL tables. Datasquirel Helps you define these structures and even extend them.
